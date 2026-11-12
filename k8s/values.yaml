@@ -2,7 +2,7 @@ app:
   replicaCount: 1
 
   image:
-    repository: ghcr.io/doublurehq/demo-front
+    repository: ghcr.io/badilhq/demo-front
     tag: ""
     pullPolicy: IfNotPresent
 
