@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Preview Envs - Front",
+  title: "Preview Envs - Front (items count)",
 };
 
 export default function RootLayout({
