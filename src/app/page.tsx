@@ -23,7 +23,7 @@ export default async function Home() {
 
   return (
     <main style={{ fontFamily: "monospace", padding: "2rem" }}>
-      <h1>Preview Envs - Front</h1>
+      <h1>Preview Envs - Front (items count)</h1>
 
       <section>
         <h2>Backend 1 (Postgres)</h2>
