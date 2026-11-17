@@ -23,6 +23,7 @@ export default async function Home() {
 
   return (
     <main style={{ fontFamily: "monospace", padding: "2rem" }}>
+      <p style={{ background: "#fde68a", padding: "0.5rem 1rem" }}>Shared preview demo</p>
       <h1>Preview Envs - Front</h1>
 
       <section>
